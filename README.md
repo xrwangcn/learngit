@@ -1,1 +1,2 @@
-哈哈哈 
+哈哈哈
+Creating a new branch is quick AND simple. 
